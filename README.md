@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue na rede abaixo!
+  ### Pra conteúdo sobre programação me siga na rede abaixo!
  
 <div> 
   <a href="https://instagram.com/rafinhaa_bf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
