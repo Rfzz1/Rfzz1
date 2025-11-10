@@ -13,7 +13,8 @@
 - 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
 - 💡 Entusiasta da tecnologia e no Desenvolvimento de Projetos  
 - 🚀 Atualmente aprendendo **Python** e **MySql**  
-- 🎯 Foco em me tornar **desenvolvedor full-stack**  
+- 🎯 Foco em me tornar **desenvolvedor full-stack**
+- 📻 Atualmente trabalhando em um projeto de controle de estoque via RFID
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1d.gif">
 
@@ -32,8 +33,9 @@
 ---
 
 ### 🌟 Projetos em destaque
-- 🕹️ [**Sistema de Controle de Presença**]([https://github.com/Rfzz1/controle-presenca](https://github.com/Rfzz1/Livro_Ingl-s)) — Sistema que acessa um livro de inglês 
-- 🎵 [**Varal de Fotos Interativo**]([https://github.com/Rfzz1/varal-fotos](https://github.com/Rfzz1/euteamobeaogli)) — página romântica com fotos, bilhetes e playlist personalizada (usado para pedir minha namorada em namoro)
+- 📻 [**Controle de Estoque com RFID**](https://github.com/Rfzz1/RFID) — Meu projeto principal, com colaborações de Thiago Mattei Sartor, Gustavo Feyh Zibetti e Otávio Alves, que permite controlar um estoque e verificar movimentações via RFID, uma tecnologia que usa ondas de rádio para identificação
+- 🕹️ [**Sistema de Livro de Inglês**](https://github.com/Rfzz1/Livro_Ingl-s) — Sistema que acessa um livro de inglês 
+- 🎵 [**Varal de Fotos Interativo**](https://github.com/Rfzz1/euteamobeaogli) — página romântica com fotos, bilhetes e playlist personalizada (usado para pedir minha namorada em namoro)
 - ⚙️ [**PokéGuide**](https://github.com/Rfzz1/pokeguide) — guia completo da Pokédex com divisão por gerações  
 
 ---
