@@ -11,8 +11,8 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
-- 💡 Curioso e apaixonado por tecnologia  
-- 🚀 Atualmente aprendendo **Node.js** e **React**  
+- 💡 Entusiasta da tecnologia e no Desenvolvimento de Projetos  
+- 🚀 Atualmente aprendendo **Python** e **MySql**  
 - 🎯 Foco em me tornar **desenvolvedor full-stack**  
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1d.gif">
@@ -24,17 +24,16 @@
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Rafa-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Rafa-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Rafa-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Rafa-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 ---
 
 ### 🌟 Projetos em destaque
-- 🕹️ [**Sistema de Controle de Presença**](https://github.com/Rfzz1/controle-presenca) — app web para gerenciar presença e participação de alunos  
-- 🎵 [**Varal de Fotos Interativo**](https://github.com/Rfzz1/varal-fotos) — página romântica com fotos, bilhetes e playlist personalizada  
+- 🕹️ [**Sistema de Controle de Presença**]([https://github.com/Rfzz1/controle-presenca](https://github.com/Rfzz1/Livro_Ingl-s)) — Sistema que acessa um livro de inglês 
+- 🎵 [**Varal de Fotos Interativo**]([https://github.com/Rfzz1/varal-fotos](https://github.com/Rfzz1/euteamobeaogli)) — página romântica com fotos, bilhetes e playlist personalizada (usado para pedir minha namorada em namoro)
 - ⚙️ [**PokéGuide**](https://github.com/Rfzz1/pokeguide) — guia completo da Pokédex com divisão por gerações  
 
 ---
@@ -42,7 +41,8 @@
 ### ☕ Curiosidades
 - 🎮 Gosto de games e animes  
 - 🎧 Sempre programo ouvindo música  
-- 🌌 Adoro aprender coisas novas sobre tecnologia e design  
+- 🌌 Adoro aprender coisas novas sobre tecnologia e design
+- 🎲 Amo RPG
 
 ---
 
