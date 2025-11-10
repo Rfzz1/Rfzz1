@@ -40,14 +40,6 @@
 
 ---
 
-### ☕ Curiosidades
-- 🎮 Gosto de games e animes  
-- 🎧 Sempre programo ouvindo música  
-- 🌌 Adoro aprender coisas novas sobre tecnologia e design
-- 🎲 Amo RPG
-
----
-
 ### 💬 Entre em contato comigo!
 <div> 
   <a href="https://instagram.com/rafinhaa_bf" target="_blank">
