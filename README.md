@@ -33,7 +33,7 @@
 ---
 
 ### 🌟 Projetos em destaque
-- 📻 [**Controle de Estoque com RFID**](https://github.com/Rfzz1/RFID) — Meu projeto principal, com colaborações de Thiago Mattei Sartor, Gustavo Feyh Zibetti e Otávio Alves, que permite controlar um estoque e verificar movimentações via RFID, uma tecnologia que usa ondas de rádio para identificação
+- 📻 [**Controle de Estoque com RFID**](https://github.com/Rfzz1/RFID) — Meu projeto principal, com colaborações de Thiago Mattei Sartor, Gustavo Feyh Zibetti, que permite controlar um estoque e verificar movimentações via RFID, uma tecnologia que usa ondas de rádio para identificação
 - 🕹️ [**Sistema de Livro de Inglês**](https://github.com/Rfzz1/Livro_Ingl-s) — Sistema que acessa um livro de inglês 
 - 🎵 [**Varal de Fotos Interativo**](https://github.com/Rfzz1/euteamobeaogli) — página romântica com fotos, bilhetes e playlist personalizada (usado para pedir minha namorada em namoro)
 - ⚙️ [**PokéGuide**](https://github.com/Rfzz1/pokeguide) — guia completo da Pokédex com divisão por gerações  
