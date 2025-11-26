@@ -60,8 +60,6 @@
 ---
 
 <!-- SNAKE ANIMATION – só funciona se o workflow estiver configurado! -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg" />
+</div>
