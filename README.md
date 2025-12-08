@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rfzz1/main/banner-purple-rfzz1.svg" width="100%" alt="Banner Purple">
+  <img src="https://raw.githubusercontent.com/Rfzz1/assets/main/banner-purple-rfzz1.svg" width="100%" alt="Banner Purple">
 </p>
 
 ## 👋 Bem-vindo(a) ao perfil de Rafael Bressan Fiorio 😁
