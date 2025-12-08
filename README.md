@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner-dark-roxo.png" width="100%" />
+  <img src="assets/banner-dark-roxo.svg" width="100%" />
 </p>
 
 ### 💜 Rafael Bressan Fiorio
