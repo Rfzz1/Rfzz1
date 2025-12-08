@@ -1,0 +1,13 @@
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" fill="#000000"/>
+  
+  <text x="50%" y="50%" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="55" fill="#A020F0" font-weight="bold">
+    R F Z Z 1
+  </text>
+
+  <text x="50%" y="75%" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="20" fill="#C8A2C8">
+    Desenvolvedor • SENAI • Tech & Projetos
+  </text>
+</svg>
