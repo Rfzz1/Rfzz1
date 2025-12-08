@@ -46,7 +46,7 @@
 
 ---
 
-### 🏷️ Badges automáticos
+### 🏷️ Badges
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/m/Rfzz1/Rfzz1?label=Commits&style=for-the-badge&color=purple" />
@@ -72,8 +72,6 @@
 </div>
 
 ---
-
-### 🐍 Cobra roxa — fundo preto
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg">
