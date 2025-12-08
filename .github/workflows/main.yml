@@ -1,33 +1,31 @@
 name: Generate Snake
 
 on:
-  schedule: # roda todo dia
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: Platane/snk@master
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate snake animation
+        id: snake-gif
+        uses: Platane/snk@master
         with:
           github_user_name: Rfzz1
 
-          # Config cores roxo no fundo preto
+          # Cores
           color_snake: "#A020F0"
           color_dots: "#000000,#2f004f"
 
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
