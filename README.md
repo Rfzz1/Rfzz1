@@ -1,10 +1,4 @@
-<div align="center">
-
-<p align="center">
-  <img src="assets/banner-dark-roxo.svg" width="100%" />
-</p>
-
-### 💜 Rafael Bressan Fiorio
+### Rafael Bressan Fiorio
 
 </div>
 
@@ -47,7 +41,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="avatar.png" width="160" style="border-radius:50%;" />
-</div>
