@@ -1,4 +1,6 @@
-## 👋 Bem-vindo(a) ao perfil de Rafael Bressan Fiorio 😁
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rfzz1/assets/main/banner-purple-rfzz1.svg" width="100%" alt="Banner Purple">
+</p>
 
 <div align="center">
   <a href="https://github.com/Rfzz1">
