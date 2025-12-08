@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Rfzz1">
-    <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rfzz1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rfzz1&layout=compact&langs_count=6&theme=tokyonight" />
+    <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rfzz1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200" />
+    <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rfzz1&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=7200" />
   </a>
 </div>
 
@@ -61,9 +61,9 @@
 
 ---
 
-<!-- SNAKE ANIMATION – só funciona se o workflow estiver configurado! -->
+<!-- SNAKE ANIMATION -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake.svg">
 </picture>
