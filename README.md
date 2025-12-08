@@ -11,7 +11,7 @@
 ## 🧰 Skills & Tools
 
 <div align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,github" />
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,python,github" />
 </div>
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-## 🐍 Snake 🟣
+## 🐍 Snake
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rfzz1/Rfzz1/output/github-contribution-grid-snake-dark.svg">
