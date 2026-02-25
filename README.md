@@ -2,8 +2,7 @@
 
 ### A passionate Python developer
 
-- 🔭 I'm currently working on **RFID - Tool movement and inventory control and
-Grade Control - Grade Control for students**
+- 🔭 I'm currently working on **Grade Control - Grade Control for students**
 
 - 🌱 I'm currently learning **Java - GUI**
 
