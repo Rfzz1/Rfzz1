@@ -1,11 +1,11 @@
-# Hi 👋, I'm Rafael Bressan Fiorio
+# Hi, I'm Rafael Bressan Fiorio
 
 ### A passionate Java developer
 
-- 🔭 I'm currently working on **Grade Control - Grade Control for students**
-- 🌱 I'm currently learning **Java - GUI**
-- 📫 How to reach me **rafinhafiorioofc@gmail.com**
-- ⚡ Fun fact **RPG enthusiast**
+- I'm currently working on **LlamaNation - A TowerDefense game**
+- I'm currently learning **Java - LibGDX & Api Rest - SpringBoot**
+- How to reach me **rafinhafiorioofc@gmail.com**
+- Fun fact **RPG enthusiast**
 
 ---
 
