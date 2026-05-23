@@ -2,7 +2,7 @@
 
 ### A passionate Java developer
 
-- I'm currently working on **LlamaNation - A TowerDefense game** && on an IOT Project - **Smart Oven**
+- I'm currently working on **LlamaNation - A TowerDefense game** **&** on an IOT Project - **Smart Oven**
 - I'm currently learning **Java - LibGDX & Api Rest - SpringBoot**
 - How to reach me **rafinhafiorioofc@gmail.com**
 - Fun fact **RPG enthusiast**
