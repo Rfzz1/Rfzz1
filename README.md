@@ -2,8 +2,8 @@
 
 ### A passionate Java developer
 
-- I'm currently working on **LlamaNation - A TowerDefense game** **&** on an IOT Project - **Smart Oven**
-- I'm currently learning **Java - LibGDX & Api Rest - SpringBoot**
+- I'm currently working on an IOT Project - **Smart Oven**
+- I'm currently learning **Api Rest - SpringBoot && PHP - CRUD**
 - How to reach me **rafinhafiorioofc@gmail.com**
 - Fun fact **RPG enthusiast**
 
